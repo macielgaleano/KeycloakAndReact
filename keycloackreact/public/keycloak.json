@@ -1,0 +1,8 @@
+{
+  "realm": "keycloackreact",
+  "auth-server-url": "http://127.0.0.1:8080/auth/",
+  "ssl-required": "external",
+  "resource": "react-app-client",
+  "public-client": true,
+  "confidential-port": 0
+}
